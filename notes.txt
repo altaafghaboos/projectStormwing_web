@@ -1,0 +1,16 @@
+need: 	intro
+		collaborators
+		why
+		what we did
+		goal/what we will [continue] to do
+		appendix
+
+
+stormwing
+cyberstorm.mu founding member
+other universities involved (mru)
+
+Africa uses AI to find vulnerability
+not affiliated with anthropic
+started in Mauritius (cyberstorm founding, with uom, utm, mascareignes)
+anybody can join the project
